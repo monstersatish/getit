@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetIt.Models", "GetIt.Model
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetIt.Controllers", "GetIt.Controllers\GetIt.Controllers.csproj", "{CCFEB37B-9584-444B-9015-2EFC62A93BAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetIt.Adapters", "GetIt.Adapters\GetIt.Adapters.csproj", "{391EF349-B900-4631-B3CE-84AE7FD3E19C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetIt.ServiceProviders", "GetIt.ServiceProviders\GetIt.ServiceProviders.csproj", "{6FBE60AE-144C-4109-8F05-7CBB79E2BC0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{CCFEB37B-9584-444B-9015-2EFC62A93BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCFEB37B-9584-444B-9015-2EFC62A93BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCFEB37B-9584-444B-9015-2EFC62A93BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391EF349-B900-4631-B3CE-84AE7FD3E19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391EF349-B900-4631-B3CE-84AE7FD3E19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391EF349-B900-4631-B3CE-84AE7FD3E19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391EF349-B900-4631-B3CE-84AE7FD3E19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBE60AE-144C-4109-8F05-7CBB79E2BC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBE60AE-144C-4109-8F05-7CBB79E2BC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBE60AE-144C-4109-8F05-7CBB79E2BC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBE60AE-144C-4109-8F05-7CBB79E2BC0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
